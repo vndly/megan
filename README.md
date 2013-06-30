@@ -13,24 +13,21 @@ Features
 
 * Emulate multithreaded programming
 * Graphics handling
-* Sounds management
+* Sounds system
+* Text management
 * Inter-process communication
 
 Supported Browsers
 ------------------
 
 * Google Chrome
-* Mozilla Firefox
-* Opera
-* Safari
-* Internet Explorer
 
 Demo
 ----
 
 [Demo](http://zeronest.com/games/megan/demo)
 
-Screenshots
------------
+Screenshot
+----------
 
-![screenshot](http://zeronest.com/games/maggie/demo/screenshot.png)
+![screenshot](http://zeronest.com/games/megan/demo/img/screenshot.png)
