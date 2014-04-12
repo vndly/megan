@@ -1,12 +1,12 @@
 Megan
 =====
 
-Megan is a programming library developed in JavaScript to create games.
+Megan is a video game framework developed in JavaScript.
 
 General
 -------
 
-Megan programming is very similar to languages such as DIV or Fenix Project, which makes it very easy to develop games.
+Megan is very similar to other frameworks like DIV or the Fenix Project, which makes it very easy to develop games.
 
 Features
 --------
@@ -21,6 +21,7 @@ Supported Browsers
 ------------------
 
 * Google Chrome
+* Opera
 
 Demo
 ----
